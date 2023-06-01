@@ -1,1 +1,1 @@
-JavaScript WarmUp
+JAVASCRIPT WARM-UP PROJECT
